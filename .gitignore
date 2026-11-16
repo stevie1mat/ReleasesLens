@@ -5,3 +5,7 @@ engine/target/
 test-results/
 playwright-report/
 .env*
+
+# Local agent configuration
+.agents/
+AGENTS.md

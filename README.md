@@ -13,15 +13,9 @@ npm run dev
 
 Open the URL printed by Vite. Choose a previous build and a new build, then send a question. **Try a sample comparison** uses included, non-installable APK-shaped ZIP fixtures and runs the same Rust engine as uploaded files.
 
-## Screenshots
+## Screenshot
 
 ![ReleaseLens circular release comparison and report chat](docs/screenshots/releaselens-workspace.png)
-
-![ReleaseLens chat workspace](docs/screenshots/workspace.png)
-
-![Local sample comparison](docs/screenshots/comparison.png)
-
-[Mobile screenshot](docs/screenshots/mobile.png)
 
 ## What it compares
 
