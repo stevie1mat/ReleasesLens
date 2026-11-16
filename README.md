@@ -15,6 +15,8 @@ Open the URL printed by Vite. Choose a previous build and a new build, then send
 
 ## Screenshots
 
+![ReleaseLens circular release comparison and report chat](docs/screenshots/releaselens-workspace.png)
+
 ![ReleaseLens chat workspace](docs/screenshots/workspace.png)
 
 ![Local sample comparison](docs/screenshots/comparison.png)
